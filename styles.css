@@ -7,18 +7,18 @@ body {
   margin: 0;
   background: url("images/Tulpany.jpg");
   font-size: 35px;
-  color: rgb(255, 0, 174);
+  color: rgb(255, 0, 0);
   height: 100vh;
   position: fixed;
   width: 100%;
 }
 .hh {
-  -webkit-text-stroke: 2px #e750ba;
+  -webkit-text-stroke: 2px #c3042a;
   font-weight: 900;
   font-size: 50px;
 }
 .pp {
-  -webkit-text-stroke: 2px #f657c6;
+  -webkit-text-stroke: 2px #f44646;
   font-size: 30px;
   font-style: oblique;
   font-weight: 800;
@@ -45,7 +45,7 @@ body .container {
 }
 
 .buttons button {
-  background-color: #eabcc7;
+  background-color: #fa0202;
   color: #fff;
   padding: 10px 30px;
   border: none;
@@ -58,7 +58,7 @@ body .container {
 }
 
 .buttons button:hover {
-  background-color: #f7053d;
+  background-color: #f63a66;
 }
 
 .buttons {
